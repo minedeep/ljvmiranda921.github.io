@@ -24,10 +24,28 @@ physical and mental spaces.
 <!--
 Like where most reflections are born, parts of this
 essay were written during my early-morning walks in a garden tucked away in a
-sprawling business district of Mckinley Hill.
+sprawling business district of Mckinley Hill. 
 
-I follow a consistent path to reach the garden. First, 
+On this part, just write about your path to that garden and describe the area
+vividly
+
+Talk about observing, the value of observation, you're not expecting anything,
+you just let it be. It seems that when sitting in the garden, I'm not looking
+for something, I'm not expecting something
+
+It's also not expecting anything from you
 -->
+
+## On physical spaces
+
+<!-- 
+It seems that it's hard to find these spaces anymore
+Talk about physical spaces, citing the garden as an example.
+-->
+
+## On remote work
+
+## On open-source
 
 
 #### Footnotes
