@@ -11,10 +11,10 @@ The Pandemic has forced most knowledge-workers like me to work from home.  It's
 almost the end of June and the virus is still raging, moreso in an ill-prepared
 country like the Philippines. Inasmuch as I'd like to go through the initial
 bouts of anxiety, stress, and adjustment to the work-from-home life, alot has
-already happened in the last three months that those moments felt like years in
-the past (let alone process these feelings). Today, I'd like to talk more about
-my recent reflections&mdash; mainly born from my pandemic-induced routine of
-**doing nothing**, or taking 6 A.M. walks in a nearby garden around our area. 
+already happened in the last three months, making those moments feel like years
+in the past. Today, I'd like to talk more about my recent reflections&mdash;
+mainly born from my pandemic-induced early morning routine of **doing
+nothing**, or taking 6 A.M. walks in a nearby garden around our area!
 
 These reflections will touch on a variety of topics but is rooted in the
 central theme of **doing nothing**[^1], and the importance of *observing* and
