@@ -36,6 +36,16 @@ for something, I'm not expecting something
 It's also not expecting anything from you
 -->
 
+<!--
+
+These reflections are divided into three parts, corresponding to three spaces:
+- The space I move around: the physical space, Mckinley Hill, the garden
+- The space I move in: my room, remote work
+- The space I move myself: programming and open-source
+
+
+-->
+
 ## On physical spaces
 
 <!-- 
